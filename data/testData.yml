@@ -1,4 +1,8 @@
-﻿{
+language: "en"
+
+pipeline: "spacy_sklearn"
+
+data: {
   "rasa_nlu_data": {
     "common_examples": [
       {
